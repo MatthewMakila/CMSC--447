@@ -1,6 +1,6 @@
 # CMSC 447 HW 1
-* Project to create personal webpage with HTML and CSS framework (Bootstrap)
+* A small project to create a personal webpage with HTML and CSS framework (Bootstrap)
+* Includes brief main page, navigation, and small sections about me
 
-# Pushes
-* 1st set: setting up repo with page
-* 2nd set: add navigation bar
+# Build Command
+* `Open the index.html file`
